@@ -11,11 +11,11 @@ This repository contains the **official token list and logo** for MakiTOKEN on t
 
 ## Token List JSON
 The main tokenlist file is:
-- [`tokenlist.json`](https://github.com/makicryptoservice/maki-tokenlist.json/blob/c950d89bcb46699e18cd396938405639080ba3f8/MAKI-TOKENLIST.JSON)
+- [`tokenlist.json`](https://raw.githubusercontent.com/makicryptoservice/maki-tokenlist.json/refs/heads/main/MAKI-TOKENLIST.JSON)
 
 ## Logo
 The token logo is located at:
-- [`assets/maki.png`](https://raw.githubusercontent.com/makicryptoservice/maki-tokenlist.json/230f4695af697f383537df057927f8a7ccb47868/maki.png)
+- [`assets/maki.png`](https://raw.githubusercontent.com/makicryptoservice/maki-tokenlist.json/refs/heads/main/maki.png)
 
 ## Usage
 You can submit this tokenlist to:
