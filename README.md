@@ -11,16 +11,16 @@ This repository contains the **official token list and logo** for MakiTOKEN on t
 
 ## Token List JSON
 The main tokenlist file is:
-- [`tokenlist.json`](./tokenlist.json)
+- [`tokenlist.json`](https://github.com/makicryptoservice/maki-tokenlist.json/blob/c950d89bcb46699e18cd396938405639080ba3f8/MAKI-TOKENLIST.JSON)
 
 ## Logo
 The token logo is located at:
-- [`https://github.com/makicryptoservice/maki-tokenlist.json/blob/230f4695af697f383537df057927f8a7ccb47868/maki.png`](./assets/maki.png)
+- [`assets/maki.png`](https://github.com/makicryptoservice/maki-tokenlist.json/blob/230f4695af697f383537df057927f8a7ccb47868/maki.png)
 
 ## Usage
 You can submit this tokenlist to:
 - Bitget Wallet
 - OKX Web3 Wallet
 - Trust Wallet (...)
-- CoinGecko / CMC (optional)
-  
+- CoinGecko (optional)
+- CoinMarketCap (optional)
