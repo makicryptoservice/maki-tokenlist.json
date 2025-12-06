@@ -1,0 +1,19 @@
+{
+  "name": "MakiTOKEN List",
+  "timestamp": "2025-01-01T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1116,
+      "address": "0xf745b77B6bA3525C2230E5B105a2764cC59E3880",
+      "name": "MakiTOKEN",
+      "symbol": "maki",
+      "decimals": 8,
+      "logoURI": "https://github.com/makicryptoservice/maki-tokenlist.json/blob/230f4695af697f383537df057927f8a7ccb47868/maki.png"
+    }
+  ]
+}
