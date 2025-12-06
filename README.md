@@ -15,11 +15,12 @@ The main tokenlist file is:
 
 ## Logo
 The token logo is located at:
-- [`assets/maki.png`](./assets/maki.png)
+- [`https://github.com/makicryptoservice/maki-tokenlist.json/blob/230f4695af697f383537df057927f8a7ccb47868/maki.png`](./assets/maki.png)
 
 ## Usage
 You can submit this tokenlist to:
 - Bitget Wallet
 - OKX Web3 Wallet
-- Trust Wallet
+- Trust Wallet (...)
 - CoinGecko / CMC (optional)
+  
