@@ -13,7 +13,7 @@
       "name": "MakiTOKEN",
       "symbol": "maki",
       "decimals": 8,
-      "logoURI": "https://github.com/makicryptoservice/maki-tokenlist.json/blob/230f4695af697f383537df057927f8a7ccb47868/maki.png"
+      "logoURI": "https://raw.githubusercontent.com/makicryptoservice/maki-tokenlist.json/230f4695af697f383537df057927f8a7ccb47868/maki.png"
     }
   ]
 }
